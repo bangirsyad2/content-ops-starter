@@ -1,6 +1,6 @@
 ---
 title: layanan
-slug: layanan
+slug: service
 sections:
   - title:
       text: Flexible Pricing
