@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: layanan
 slug: pricing
 sections:
   - title:
