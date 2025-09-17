@@ -14,7 +14,7 @@ sections:
       kepuasan pengguna jasa untuk mendapatkan Visa dan Izin Keimigrasian sesuai
       dengan kebutuhan anda. 
     actions:
-      - label: Get started
+      - label: Jenis Visa
         altText: ''
         url: /
         showIcon: false
