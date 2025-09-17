@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Jenis Visa
 slug: visatype
 sections:
   - title:
