@@ -40,7 +40,7 @@
         },
         {
             "type": "Link",
-            "altText": "LinkedIn",
+            "altText": "",
             "url": "/",
             "showIcon": true,
             "icon": "linkedin",
