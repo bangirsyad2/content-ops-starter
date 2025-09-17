@@ -17,7 +17,7 @@
             "label": "Home",
             "altText": "Home",
             "url": "/",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "github",
             "iconPosition": "left",
             "style": "secondary",
