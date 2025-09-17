@@ -41,7 +41,7 @@
         {
             "type": "Link",
             "altText": "",
-            "url": "/",
+            "url": "/client",
             "showIcon": false,
             "icon": "linkedin",
             "iconPosition": "left",
