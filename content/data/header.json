@@ -57,7 +57,8 @@
             "icon": "linkedin",
             "iconPosition": "left",
             "style": "secondary",
-            "elementId": ""
+            "elementId": "",
+            "label": "Konsultaasi"
         }
     ],
     "secondaryLinks": [
