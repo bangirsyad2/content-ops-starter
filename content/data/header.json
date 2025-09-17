@@ -51,7 +51,7 @@
         },
         {
             "type": "Link",
-            "altText": "",
+            "altText": "konsultasi",
             "url": "/askme",
             "showIcon": true,
             "icon": "linkedin",
