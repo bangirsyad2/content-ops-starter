@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Kami merupakan penyedia jasa konsultan dan pengurusan Visa yang berlokasi
+      di Kota Batam. Dengan dukungan tim yang handal, kami memprioritaskan
+      kepuasan pengguna jasa untuk mendapatkan Visa dan Izin Keimigrasian sesuai
+      dengan kebutuhan anda. 
     actions:
       - label: Get started
         altText: ''
