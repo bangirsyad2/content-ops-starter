@@ -51,7 +51,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: Client
+slug: client
 isDraft: false
 seo:
   type: Seo
