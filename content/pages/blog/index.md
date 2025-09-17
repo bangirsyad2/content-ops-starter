@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Jenis Visa Indonesia
+      text: News
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
