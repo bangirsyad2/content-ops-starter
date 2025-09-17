@@ -52,7 +52,7 @@
         {
             "type": "Link",
             "altText": "konsultasi",
-            "url": "/askme",
+            "url": "/contact",
             "showIcon": false,
             "icon": "arrowDown",
             "iconPosition": "left",
