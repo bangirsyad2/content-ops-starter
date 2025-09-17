@@ -40,7 +40,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Client",
             "altText": "",
             "url": "/client",
             "showIcon": false,
