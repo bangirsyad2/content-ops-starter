@@ -60,7 +60,7 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
-slug: Konsultasi
+slug: contact
 isDraft: false
 seo:
   type: Seo
