@@ -31,7 +31,7 @@
         },
         {
             "label": "Jenis Visa",
-            "altText": "Careers page",
+            "altText": "Jenis Visa",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
