@@ -51,7 +51,7 @@
         },
         {
             "type": "Link",
-            "altText": "LinkedIn",
+            "altText": "",
             "url": "/askme",
             "showIcon": true,
             "icon": "linkedin",
