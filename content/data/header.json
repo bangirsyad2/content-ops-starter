@@ -48,6 +48,16 @@
             "style": "secondary",
             "elementId": "",
             "label": "Klien kami"
+        },
+        {
+            "type": "Link",
+            "altText": "LinkedIn",
+            "url": "/askme",
+            "showIcon": true,
+            "icon": "linkedin",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
