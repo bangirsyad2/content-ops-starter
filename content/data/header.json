@@ -32,7 +32,7 @@
         {
             "label": "Jenis Visa",
             "altText": "Jenis Visa",
-            "url": "/careers",
+            "url": "/visatype",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
