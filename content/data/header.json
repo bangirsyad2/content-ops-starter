@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "GitHub",
+            "label": "Home",
             "altText": "GitHub",
             "url": "/",
             "showIcon": true,
