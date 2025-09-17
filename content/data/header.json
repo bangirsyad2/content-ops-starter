@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Layanan",
-            "url": "/pricing",
+            "url": "/layanan",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
