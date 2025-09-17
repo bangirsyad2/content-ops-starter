@@ -21,6 +21,17 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "GitHub",
+            "altText": "GitHub",
+            "url": "/",
+            "showIcon": true,
+            "icon": "github",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
