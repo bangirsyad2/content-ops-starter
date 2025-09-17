@@ -39,15 +39,26 @@
             "type": "Link"
         },
         {
-            "type": "Button",
-            "label": "Get started",
+            "type": "Link",
             "altText": "",
-            "url": "/client",
+            "url": "/",
             "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
+            "icon": "linkedin",
+            "iconPosition": "left",
             "style": "secondary",
-            "elementId": ""
+            "elementId": "",
+            "label": "Klien kami"
+        },
+        {
+            "type": "Link",
+            "altText": "konsultasi",
+            "url": "/contact",
+            "showIcon": false,
+            "icon": "arrowDown",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": "",
+            "label": "Konsultasi"
         }
     ],
     "secondaryLinks": [
