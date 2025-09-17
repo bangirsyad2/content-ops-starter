@@ -54,7 +54,7 @@
             "altText": "konsultasi",
             "url": "/askme",
             "showIcon": false,
-            "icon": "linkedin",
+            "icon": "",
             "iconPosition": "left",
             "style": "secondary",
             "elementId": "",
