@@ -53,7 +53,7 @@
             "type": "Link",
             "altText": "konsultasi",
             "url": "/askme",
-            "showIcon": false,
+            "showIcon": true,
             "icon": "",
             "iconPosition": "left",
             "style": "secondary",
