@@ -43,7 +43,7 @@
             "label": "Client",
             "altText": "",
             "url": "/client",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "",
             "iconPosition": "right",
             "style": "secondary",
